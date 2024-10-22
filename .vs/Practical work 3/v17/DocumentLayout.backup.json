@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\Desktop\\\u043E\u0441\u0442\u0430\u043B\u044C\u043D\u043E\u0435\\\u041F\u0418\u0421\\Practical work 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE2B585D-8548-4BB9-A01A-DD2E0AE029F1}|Practical work 3\\Practical work 3.csproj|C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\Desktop\\\u043E\u0441\u0442\u0430\u043B\u044C\u043D\u043E\u0435\\\u041F\u0418\u0421\\Practical work 3\\practical work 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE2B585D-8548-4BB9-A01A-DD2E0AE029F1}|Practical work 3\\Practical work 3.csproj|c:\\users\\\u0432\u0430\u0434\u0438\u043C\\desktop\\\u043E\u0441\u0442\u0430\u043B\u044C\u043D\u043E\u0435\\\u043F\u0438\u0441\\practical work 3\\practical work 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE2B585D-8548-4BB9-A01A-DD2E0AE029F1}|Practical work 3\\Practical work 3.csproj|solutionrelative:practical work 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FE35E01-643A-42D3-9B46-97781918EAB2}|TestLib\\TestLib.csproj|c:\\users\\\u0432\u0430\u0434\u0438\u043C\\desktop\\\u043E\u0441\u0442\u0430\u043B\u044C\u043D\u043E\u0435\\\u043F\u0438\u0441\\practical work 3\\testlib\\logictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FE35E01-643A-42D3-9B46-97781918EAB2}|TestLib\\TestLib.csproj|solutionrelative:testlib\\logictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9CD1FAE-9F90-4D27-A16B-04A5C0DF0BF2}|Logic\\Logic.csproj|C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\Desktop\\\u043E\u0441\u0442\u0430\u043B\u044C\u043D\u043E\u0435\\\u041F\u0418\u0421\\Practical work 3\\logic\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,31 +39,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LogicTests.cs",
-              "DocumentMoniker": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\Desktop\\\u043E\u0441\u0442\u0430\u043B\u044C\u043D\u043E\u0435\\\u041F\u0418\u0421\\Practical work 3\\TestLib\\LogicTests.cs",
-              "RelativeDocumentMoniker": "TestLib\\LogicTests.cs",
-              "ToolTip": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\Desktop\\\u043E\u0441\u0442\u0430\u043B\u044C\u043D\u043E\u0435\\\u041F\u0418\u0421\\Practical work 3\\TestLib\\LogicTests.cs",
-              "RelativeToolTip": "TestLib\\LogicTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T12:34:15.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Factory.cs",
               "DocumentMoniker": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\Desktop\\\u043E\u0441\u0442\u0430\u043B\u044C\u043D\u043E\u0435\\\u041F\u0418\u0421\\Practical work 3\\Logic\\Factory.cs",
               "RelativeDocumentMoniker": "Logic\\Factory.cs",
               "ToolTip": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\Desktop\\\u043E\u0441\u0442\u0430\u043B\u044C\u043D\u043E\u0435\\\u041F\u0418\u0421\\Practical work 3\\Logic\\Factory.cs",
               "RelativeToolTip": "Logic\\Factory.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwEMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T12:31:12.785Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "MathematicsTask.cs",
               "DocumentMoniker": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\Desktop\\\u043E\u0441\u0442\u0430\u043B\u044C\u043D\u043E\u0435\\\u041F\u0418\u0421\\Practical work 3\\Logic\\MathematicsTask.cs",
               "RelativeDocumentMoniker": "Logic\\MathematicsTask.cs",
@@ -79,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "PhysicsTask.cs",
               "DocumentMoniker": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\Desktop\\\u043E\u0441\u0442\u0430\u043B\u044C\u043D\u043E\u0435\\\u041F\u0418\u0421\\Practical work 3\\Logic\\PhysicsTask.cs",
               "RelativeDocumentMoniker": "Logic\\PhysicsTask.cs",
@@ -91,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Tasks.cs",
               "DocumentMoniker": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\Desktop\\\u043E\u0441\u0442\u0430\u043B\u044C\u043D\u043E\u0435\\\u041F\u0418\u0421\\Practical work 3\\Logic\\Tasks.cs",
               "RelativeDocumentMoniker": "Logic\\Tasks.cs",
@@ -109,7 +92,7 @@
               "RelativeDocumentMoniker": "Practical work 3\\Program.cs",
               "ToolTip": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\Desktop\\\u043E\u0441\u0442\u0430\u043B\u044C\u043D\u043E\u0435\\\u041F\u0418\u0421\\Practical work 3\\Practical work 3\\Program.cs",
               "RelativeToolTip": "Practical work 3\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAowBAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T12:30:24.546Z",
               "EditorCaption": ""
