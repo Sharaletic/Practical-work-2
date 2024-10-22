@@ -1,0 +1,10 @@
+C:\Users\Вадим\Desktop\остальное\ПИС\Practical work 3\Practical work 3\obj\Debug\Practical work 3.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\остальное\ПИС\Practical work 3\Practical work 3\obj\Debug\Practical work 3.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\остальное\ПИС\Practical work 3\Practical work 3\bin\Debug\Practical work 3.exe.config
+C:\Users\Вадим\Desktop\остальное\ПИС\Practical work 3\Practical work 3\bin\Debug\Practical work 3.exe
+C:\Users\Вадим\Desktop\остальное\ПИС\Practical work 3\Practical work 3\bin\Debug\Practical work 3.pdb
+C:\Users\Вадим\Desktop\остальное\ПИС\Practical work 3\Practical work 3\bin\Debug\Logic.dll
+C:\Users\Вадим\Desktop\остальное\ПИС\Practical work 3\Practical work 3\bin\Debug\Logic.pdb
+C:\Users\Вадим\Desktop\остальное\ПИС\Practical work 3\Practical work 3\obj\Debug\Practica.433EC06C.Up2Date
+C:\Users\Вадим\Desktop\остальное\ПИС\Practical work 3\Practical work 3\obj\Debug\Practical work 3.exe
+C:\Users\Вадим\Desktop\остальное\ПИС\Practical work 3\Practical work 3\obj\Debug\Practical work 3.pdb

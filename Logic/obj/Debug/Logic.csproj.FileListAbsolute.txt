@@ -1,0 +1,9 @@
+C:\Users\Вадим\Desktop\остальное\ПИС\Practical work 3\Logic\bin\Debug\Logic.dll
+C:\Users\Вадим\Desktop\остальное\ПИС\Practical work 3\Logic\bin\Debug\Logic.pdb
+C:\Users\Вадим\Desktop\остальное\ПИС\Practical work 3\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\остальное\ПИС\Practical work 3\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\остальное\ПИС\Practical work 3\Logic\obj\Debug\Logic.dll
+C:\Users\Вадим\Desktop\остальное\ПИС\Practical work 3\Logic\obj\Debug\Logic.pdb
+C:\Users\Вадим\Desktop\остальное\ПИС\Practical work 3\Logic\bin\Debug\Models.dll
+C:\Users\Вадим\Desktop\остальное\ПИС\Practical work 3\Logic\bin\Debug\Models.pdb
+C:\Users\Вадим\Desktop\остальное\ПИС\Practical work 3\Logic\obj\Debug\Logic.csproj.Up2Date
